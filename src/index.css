@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.bg-darkbrown{
+  --tw-bg-opacity: 1;
+  background-color: rgb(8 7 7/var(--tw-bg-opacity));
+}
